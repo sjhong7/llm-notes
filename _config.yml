@@ -1,9 +1,5 @@
 title: LLM 관련 정보
-theme: jekyll-theme-minimal
 
-nav:
-  - title: Home
-    url: /
-  - title: Papers
-    url: /papers/
-    
+header_pages:
+  - index.md
+  - papers.md
